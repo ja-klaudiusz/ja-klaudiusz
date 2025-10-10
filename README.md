@@ -4,12 +4,21 @@ Building scalable, high-quality software with clean architecture and long-term m
 
 ---
 
-### 🧭 Professional Snapshot
-I’m a full-stack engineer with hands-on experience in **FinTech**, **E-commerce**, and **Manufacturing**.  
-I focus on crafting performant front-end systems in **React** and reliable back-end services in **Node.js**, often leveraging **GCP** for scalability and automation.  
-My approach combines clean architecture, thoughtful testing, and a continuous drive to refine both process and product.  
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/klaudiuszm)
+[![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333?logo=minutemailer&logoColor=white&style=for-the-badge)](mailto:klaudiusz.w.m@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ja--klaudiusz-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ja-klaudiusz)
 
-I value clarity, precision, and curiosity — in code, in design, and in teamwork.
+> Always open to meaningful conversations about clean code, performance, and product craftsmanship.
+
+---
+
+### 🧭 Professional Snapshot
+Full-stack engineer with hands-on experience in **FinTech**, **E-commerce**, and **Manufacturing**.  
+Focused on building performant React front-ends and reliable Node.js back-ends, often leveraging **GCP** for scalability and automation.  
+Passionate about clean architecture, maintainability, and mentoring others to build better software.
+
+I value clarity, precision, and curiosity — in code and collaboration alike.
 
 ---
 
@@ -27,26 +36,15 @@ I value clarity, precision, and curiosity — in code, in design, and in teamwor
 ---
 
 ### 🌍 Beyond the Code
-Outside of work, I recharge through motion and discovery.  
-🚴‍♂️ Riding MTB trails through the forest  
-🎾 Playing tennis or hitting the gym  
-🎧 Enjoying electronic music and live concerts  
-✈️ Travelling to warm, faraway places  
-👨‍👧‍👦 Spending active time with my kids  
-🐶 Taking long evening walks with my dog  
+I recharge through motion and discovery:  
+🚴‍♂️ MTB rides through the woods  
+🎾 Tennis and gym training  
+🎧 Electronic music & live concerts  
+✈️ Exploring new places and cultures  
+👨‍👧‍👦 Active time with my kids  
+🐶 Long walks with my dog  
 
 Balance fuels creativity — and good engineering.
-
----
-
-### 📊 GitHub Overview
-
-![Klaudiusz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ja-klaudiusz&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-klaudiusz&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ja-klaudiusz&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ja-klaudiusz&theme=github-dark&hide_border=true&area=true)
 
 ---
 
@@ -59,8 +57,12 @@ Balance fuels creativity — and good engineering.
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiuszm)
-[![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333?logo=minutemailer&logoColor=white)](mailto:klaudiusz.w.m@gmail.com)
+### 📊 Overview (compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ja-klaudiusz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&line_height=22&card_width=400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-klaudiusz&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" width="49%" />
+</p>
+
+---
 
 > *“Good software should feel invisible — fast, reliable, and simple to evolve.”*
