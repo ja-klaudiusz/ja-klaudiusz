@@ -1,25 +1,27 @@
-# Klaudiusz — Full-stack Software Engineer
+# Klaudiusz — Full-stack Software Engineer  
 **React • Node.js • GCP**  
 Building scalable, high-quality software with clean architecture and long-term maintainability in mind.
 
 ---
 
-### 📫 Contact
+### 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/klaudiuszm)
 [![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-4b5563?logo=minutemailer&logoColor=white&style=for-the-badge)](mailto:klaudiusz.w.m@gmail.com)
 
-I’m open to meaningful collaboration on **innovative, technically engaging projects** — especially where quality, performance, and thoughtful engineering matter most.
+I’m open to meaningful collaboration on **innovative, technically engaging projects** — especially where quality, performance, and thoughtful engineering make a difference.
 
 ---
 
-### 🧭 Professional Snapshot
+### 🧭 Professional Snapshot  
 Full-stack engineer with experience in **FinTech**, **E-commerce**, and **Manufacturing**.  
-I build and maintain scalable applications using **React**, **Node.js**, and **GCP**, combining performance with maintainability and clarity.  
-My work emphasizes **clean architecture**, **testing discipline**, and **continuous improvement**, both in the code and in the process.
+I build and maintain scalable applications using **React**, **Node.js**, and **GCP**, always balancing performance, clarity, and maintainability.  
+My work revolves around **clean architecture**, **testing discipline**, and an ongoing pursuit of technical excellence through iteration and mentorship.  
+
+I enjoy bridging the gap between front-end and back-end teams, ensuring that design, logic, and infrastructure fit together naturally — without unnecessary complexity.
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 ![React](https://img.shields.io/badge/React-1f2937?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?logo=nextdotjs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?logo=nodedotjs&logoColor=8CC84B)
@@ -32,17 +34,19 @@ My work emphasizes **clean architecture**, **testing discipline**, and **continu
 
 ---
 
-### 🔦 Spotlight
-I like building things that make a real impact — from robust internal platforms to developer-friendly tools.  
-Recently I’ve been focusing on:
-- **Component-driven front-ends** in React/Next.js designed for reusability and clarity  
-- **Service-first back-ends** in Node.js following clean architecture principles  
-- **Cloud automation** on GCP (pipelines, delivery, infrastructure scripting)  
-- **Developer tooling** (design systems, internal libraries, code quality pipelines)
+### 🔦 Spotlight  
+I take pride in delivering software that lasts — both in reliability and in value.  
+Over the past few years, I’ve focused on:  
+- Designing and developing **React-based front-end applications** used in enterprise environments  
+- Maintaining and improving existing systems for **stability, scalability, and developer efficiency**  
+- Introducing **testing practices** and refining codebases for long-term maintainability  
+- Supporting and mentoring less experienced developers, helping teams grow their technical confidence  
+
+Each project has strengthened my belief that solid engineering is less about the newest framework — and more about clear structure, ownership, and small, consistent improvements.
 
 ---
 
-### 📊 Overview (compact)
+### 📊 Overview (compact)  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ja-klaudiusz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&line_height=22&card_width=400" width="49%" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-klaudiusz&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" width="49%" alt="Top languages"/>
@@ -50,13 +54,15 @@ Recently I’ve been focusing on:
 
 ---
 
-### 🌿 Beyond the Code
-Outside of work, I recharge through movement, creativity, and time spent outdoors.  
-I enjoy **riding MTB trails in the forest**, **playing tennis**, and **training at the gym**.  
-Music is a constant thread — especially **electronic and live performances**.  
-Whenever I can, I set out on **adventures to warm, distant places**, exploring new cultures and perspectives.  
-Above all, I value **active time with my kids** and long, unhurried **walks with my dog**.
+### 🌿 Beyond the Code  
+When I’m not writing code, I’m usually chasing that same balance of focus and flow in other ways.  
+I love **riding my MTB through quiet forest trails**, where every turn clears the mind and resets perspective.  
+**Tennis and gym sessions** keep me grounded, reminding me that steady effort beats intensity.  
+I’m deeply into **music — especially electronic and live performances —** which for me is another form of rhythm and structure, not so different from coding.  
+Whenever I get the chance, I travel — often to **warm, distant places**, drawn by curiosity for new cultures and landscapes.  
+And above all, I value **time with my kids**, filled with movement, laughter, and discovery — plus long, peaceful **walks with my dog**, the best reminder that simplicity can be its own reward.
 
 ---
 
-> *“Good software should feel invisible — fast, reliable, and simple to evolve.”* — personal credo
+> I believe good software should feel invisible — fast, reliable, and effortless to use.  
+> It’s the kind of engineering that disappears behind experience — and that’s what I aim to build every day.
