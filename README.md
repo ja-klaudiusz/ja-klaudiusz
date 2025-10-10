@@ -1,17 +1,17 @@
-# Klaudiusz — Full-stack Software Engineer
+# Klaudiusz — Full-stack Software Engineer  
 **React • Node.js • GCP**  
-Building scalable products with clean architecture and a bias for maintainability.
+Crafting scalable, high-quality applications that combine performance, clarity, and long-term maintainability.  
 
 ---
 
-### Snapshot
-- Designing and delivering web applications used in FinTech, E-commerce, and Manufacturing.  
-- Focused on performance, testability, and developer experience.  
-- Exploring emerging tech and sharing best practices with peers.
+### 🧭 Snapshot
+- Designing and developing modern web applications across **FinTech**, **E-commerce**, and **Manufacturing** sectors.  
+- Focused on clean architecture, testing, and developer experience.  
+- Constantly exploring new technologies and sharing practical insights with peers.  
 
 ---
 
-### Tech Stack
+### ⚙️ Tech Stack  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white)
@@ -24,26 +24,33 @@ Building scalable products with clean architecture and a bias for maintainabilit
 
 ---
 
-### Now
-- Refining component systems in React/Next.js  
-- Keeping back-end edges tidy with Node.js  
-- Automating cloud workflows on GCP  
-- Staying active: MTB in the woods, tennis, gym  
-- Recharging with electronic music & live concerts  
-- Making memories with my kids and long walks with my dog
+### 🌍 Now
+- Refining **React/Next.js** component systems  
+- Keeping back-end edges tidy with **Node.js**  
+- Automating deployments on **GCP**  
+- Recharging through **MTB**, **tennis**, and **gym sessions**  
+- Enjoying **electronic music**, **live concerts**, and **traveling** to new places  
+- Spending **active time with my kids** and long walks with my **dog**  
 
 ---
 
-### Selected Stats
-> Replace `YOUR_GH_USERNAME` with your GitHub handle.
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GH_USERNAME&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&hide_border=true&langs_count=8)
+### 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=ja-klaudiusz&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-klaudiusz&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
-### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiuszm)
-[![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333)](mailto:klaudiusz.w.m@gmail.com)
+### 📌 Pinned Projects
+| Project | Description |
+|:--|:--|
+| [**react-app-template**](https://github.com/ja-klaudiusz/react-app-template) | A modern React boilerplate with pre-configured tooling and testing setup. |
+| [**node-api-starter**](https://github.com/ja-klaudiusz/node-api-starter) | Lightweight Node.js REST API with clean architecture and Jest coverage. |
+| [**gcp-deploy-scripts**](https://github.com/ja-klaudiusz/gcp-deploy-scripts) | Reusable automation scripts for CI/CD pipelines on GCP. |
 
-> *Good software should feel invisible: fast, reliable, and simple to evolve.*
+---
+
+### 📫 Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ja-klaudiusz-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ja-klaudiusz)  
+[![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333)](mailto:klaudiusz.w.m@gmail.com)  
+
+> *“Good software should feel invisible — fast, reliable, and simple to evolve.”*
