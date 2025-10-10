@@ -30,8 +30,6 @@ My work emphasizes **clean architecture**, **testing discipline**, and **continu
 ![GCP](https://img.shields.io/badge/GCP-1f2937?logo=googlecloud&logoColor=4285F4)
 ![Azure](https://img.shields.io/badge/Azure-1f2937?logo=microsoftazure&logoColor=0078D4)
 
-> Te badge mają neutralne, przygaszone tło (`#1f2937`), dzięki czemu są czytelne zarówno w **dark** jak i **light mode**.
-
 ---
 
 ### 🔦 Spotlight
