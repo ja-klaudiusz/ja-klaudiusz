@@ -1,24 +1,29 @@
-# Klaudiusz — Full-stack Software Engineer  
-**React • Node.js • GCP**  
-Building scalable, high-quality software with clean architecture and long-term maintainability in mind.
+<!-- 🌊 Elegant dark header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0A0A,100:111111&height=180&section=header&text=Klaudiusz&fontColor=EAEAEA&fontSize=48&fontAlign=50&fontAlignY=38" alt="Header banner"/>
+</p>
+
+<!-- ✨ Animated tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=9AE6B4&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Full-stack+Software+Engineer;React+•+Node.js+•+GCP;Clean+architecture+%7C+Scalable+systems+%7C+Code+that+ages+well" alt="Typing animation" />
+</p>
 
 ---
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/klaudiuszm)
 [![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333?logo=minutemailer&logoColor=white&style=for-the-badge)](mailto:klaudiusz.w.m@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ja--klaudiusz-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ja-klaudiusz)
 
-> Always open to meaningful conversations about clean code, performance, and product craftsmanship.
+I’m always open to meaningful collaboration on **innovative and technically engaging projects** — especially where quality, performance, and thoughtful engineering matter most.
 
 ---
 
 ### 🧭 Professional Snapshot
-Full-stack engineer with hands-on experience in **FinTech**, **E-commerce**, and **Manufacturing**.  
-Focused on building performant React front-ends and reliable Node.js back-ends, often leveraging **GCP** for scalability and automation.  
-Passionate about clean architecture, maintainability, and mentoring others to build better software.
+Full-stack engineer with experience in **FinTech**, **E-commerce**, and **Manufacturing**.  
+I build and maintain scalable applications using **React**, **Node.js**, and **GCP**, combining performance with maintainability and clarity.  
+My work emphasizes **clean architecture**, **testing discipline**, and **continuous improvement**, both in the code and in the process.  
 
-I value clarity, precision, and curiosity — in code and collaboration alike.
+Driven by curiosity and precision, I enjoy working closely with cross-functional teams to create software that lasts — in value and in quality.
 
 ---
 
@@ -35,25 +40,16 @@ I value clarity, precision, and curiosity — in code and collaboration alike.
 
 ---
 
-### 🌍 Beyond the Code
-I recharge through motion and discovery:  
-🚴‍♂️ MTB rides through the woods  
-🎾 Tennis and gym training  
-🎧 Electronic music & live concerts  
-✈️ Exploring new places and cultures  
-👨‍👧‍👦 Active time with my kids  
-🐶 Long walks with my dog  
+### 🔦 Spotlight
+I enjoy building things that make a real impact — from robust internal platforms to developer-friendly tools.  
+Here are a few areas I’ve been focusing on recently:
 
-Balance fuels creativity — and good engineering.
+- 🧱 **Component-driven front-ends** — React & Next.js, designed for reusability and clarity  
+- ⚙️ **Service-first back-ends** — Node.js APIs following clean architecture patterns  
+- ☁️ **Cloud automation** — GCP-based CI/CD pipelines and infrastructure scripting  
+- 🧩 **Developer tooling** — internal libraries, design systems, and code quality pipelines  
 
----
-
-### 📌 Selected Projects
-| Project | Description |
-|:--|:--|
-| [**react-app-template**](https://github.com/ja-klaudiusz/react-app-template) | A modern React boilerplate with pre-configured tooling, Storybook, and Jest. |
-| [**node-api-starter**](https://github.com/ja-klaudiusz/node-api-starter) | Lightweight Node.js REST API starter built around clean architecture principles. |
-| [**gcp-deploy-scripts**](https://github.com/ja-klaudiusz/gcp-deploy-scripts) | Reusable scripts and utilities for automated CI/CD pipelines on GCP. |
+Each project is a new opportunity to simplify, automate, and push the boundaries of what great software can be.
 
 ---
 
@@ -65,4 +61,14 @@ Balance fuels creativity — and good engineering.
 
 ---
 
-> *“Good software should feel invisible — fast, reliable, and simple to evolve.”*
+### 🌿 Beyond the Code
+Outside of work, I recharge through movement, creativity, and time spent outdoors.  
+I love exploring **forest trails on my MTB**, playing **tennis**, and training at the **gym** to stay sharp.  
+Music is my constant companion — especially **electronic and live performances** that spark energy and focus.  
+Whenever I can, I set out on **adventures to warm, distant places**, discovering new cultures and perspectives.  
+Above all, I enjoy **active time with my kids** and long, peaceful **walks with my dog**, which always remind me to slow down and enjoy the moment.
+
+---
+
+> *“Good software should feel invisible — fast, reliable, and simple to evolve.”*  
+> — personal credo
