@@ -1,42 +1,49 @@
-# 👋 Hey, I'm Klaudiusz
-
-### 🧠 Code. Learn. Create.
-
-I’m a full-stack engineer who loves turning ideas into things that actually *work*.  
-Most of my days are spent crafting web applications with **React**, **Node.js**, and **GCP**, exploring how small architectural choices can make big differences in performance and scalability.  
-
-I don’t chase hype — I chase *clarity*.  
-Clean code, thoughtful patterns, and a strong cup of coffee are my daily essentials.  
+# Klaudiusz — Full-stack Software Engineer
+**React • Node.js • GCP**  
+Building scalable products with clean architecture and a bias for maintainability.
 
 ---
 
-### ⚡ What I’m into right now  
-- Building modern front-end systems with **React + Next.js**  
-- Creating stable back-ends in **Node.js**  
-- Experimenting with **cloud automation** on GCP  
-- Writing tests that actually test things  
-- Exploring how design and performance shape user experience  
+### Snapshot
+- Designing and delivering web applications used in FinTech, E-commerce, and Manufacturing.  
+- Focused on performance, testability, and developer experience.  
+- Exploring emerging tech and sharing best practices with peers.
 
 ---
 
-### 🌍 Outside the Editor  
-When I’m not writing code, I’m probably:  
-🚴‍♂️ riding my **MTB through forest trails**  
-🎾 playing **tennis** or hitting the **gym**  
-🎧 vibing to **electronic music** at a concert  
-✈️ wandering **somewhere warm and far away**  
-👨‍👧‍👦 spending **active time with my kids**  
-🐶 or walking with my dog, plotting the next great idea  
+### Tech Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 
-### 🛠️ Stack Snapshot  
-`React` • `Next.js` • `Node.js` • `TypeScript` • `JavaScript` • `Jest` • `Storybook` • `Docker` • `GCP` • `Azure`  
+### Now
+- Refining component systems in React/Next.js  
+- Keeping back-end edges tidy with Node.js  
+- Automating cloud workflows on GCP  
+- Staying active: MTB in the woods, tennis, gym  
+- Recharging with electronic music & live concerts  
+- Making memories with my kids and long walks with my dog
 
 ---
 
-### 📫 Let’s Connect  
-💼 [linkedin.com/in/klaudiuszm](https://linkedin.com/in/klaudiuszm)  
-📧 [klaudiusz.w.m@gmail.com](mailto:klaudiusz.w.m@gmail.com)  
+### Selected Stats
+> Replace `YOUR_GH_USERNAME` with your GitHub handle.
 
-> *I believe the best code feels invisible — it just works, beautifully.*
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GH_USERNAME&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&hide_border=true&langs_count=8)
+
+---
+
+### Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-klaudiuszm-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiuszm)
+[![Email](https://img.shields.io/badge/Email-klaudiusz.w.m%40gmail.com-333333)](mailto:klaudiusz.w.m@gmail.com)
+
+> *Good software should feel invisible: fast, reliable, and simple to evolve.*
